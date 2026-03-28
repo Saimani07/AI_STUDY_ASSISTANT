@@ -1,3 +1,7 @@
+# AI Study Assistant
+
+## 🚀 Live Demo
+👉 https://ai-study-assistant-pq5w.onrender.com
 # 🎓 AI-Powered Study Assistant with Performance Prediction
 
 A complete end-to-end AI web application built with **Flask**, **NLTK**, and **scikit-learn** that:
