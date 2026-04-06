@@ -101,7 +101,7 @@ You will see:
 
 ### Step 6 – Open in your browser
 
-Go to: **http://localhost:5000**
+Go to: **https://ai-study-assistant-pq5w.onrender.com/**
 
 ---
 
